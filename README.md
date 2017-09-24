@@ -32,7 +32,9 @@ The goal here is to see how autonomous you are and how much you've made your int
 
 ## Delivery
 
-Fork this repo and once you're done send us a pull request. The result should be a repository on Github with instructions how to run tests.
+Fork this repo and once you're done send us a link to your own Github repo with instructions on how to run tests.
+
+Please **do not send us a pull request**! Instead just send us the link with your solution over email and we'll take it from there.
 
 ## Talk to us
 
